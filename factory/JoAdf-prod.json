@@ -1,0 +1,9 @@
+{
+	"name": "JoAdf-prod",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b1bb6313-0213-43d5-8d03-a3727f7a65d1",
+		"tenantId": "5353d365-31de-40f5-adfe-63dc25a0fb09"
+	}
+}
